@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: max-content;
+    display: flex;
+    text-wrap: wrap;
+}
+div{
+    width: fit-content;
+    height: fit-content;
+}
